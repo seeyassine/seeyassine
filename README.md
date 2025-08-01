@@ -6,7 +6,7 @@
 - 💞️ I’m looking to job && collaborate on open-source projects related to DevOps, cloud computing, and web development.
 - 📫 How to reach me: You can reach me via my LinkedIn or Twitter : YASSINE AIT SI M'BAREK.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: 🎓 Master's Student in DevOps && Cloud Computingy and a YouTuber sharing tech knowledge !
+- ⚡ Fun fact: 🎓 Master's  in DevOps && Cloud Computingy and a YouTuber sharing tech knowledge !
 - Let's connect and explore how we can collaborate for mutual success!
 
 looking for a PFE internship DevOps or Similaire
