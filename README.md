@@ -130,4 +130,12 @@ email : yassineasmk20@gmail.com
 ###
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/seeyassine/seeyassine/output/snake.svg" alt="Snake animation" />
+
+###
+
 
